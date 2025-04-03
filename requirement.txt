@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+joblib
+torch
+torchvision
+tqdm
+transformers
+seaborn
+matplotlib
+tensorflow
